@@ -1,0 +1,25 @@
+UTME Mathematics Questions Format
+
+1. If x² + 5x + 6 = 0, what are the values of x?
+A) x = -2, -3
+B) x = 2, 3
+C) x = -1, -6
+D) x = 1, 6
+Answer: A
+Explanation: Using factorization: x² + 5x + 6 = (x + 2)(x + 3) = 0, Therefore, x = -2 or x = -3
+
+2. What is the area of a circle with radius 5 units?
+A) 25π square units
+B) 10π square units
+C) 15π square units
+D) 20π square units
+Answer: A
+Explanation: Area of a circle = πr², Where r = 5, Therefore, Area = π(5)² = 25π square units
+
+3. What is the value of sin²θ + cos²θ?
+A) 0
+B) 1
+C) 2
+D) Depends on θ
+Answer: B
+Explanation: This is a fundamental trigonometric identity: sin²θ + cos²θ = 1
