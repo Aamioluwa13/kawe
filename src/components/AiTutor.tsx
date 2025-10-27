@@ -64,7 +64,7 @@ export default function AiTutor() {
       const data = await res.json();
       const assistantMsg: Message = { role: 'assistant', content: data.reply };
       setMessages((m) => [...m, assistantMsg]);
-    } catch (err: any) {
+    } catch (err: unknown) {
       setMessages((m) => [...m, { role: 'assistant', content: 'Sorry — I could not reach the AI service. ' + (err?.message || '') }]);
     } finally {
       setLoading(false);
